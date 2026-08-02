@@ -153,6 +153,22 @@
 
 ---
 
+## 📧 Ticket Categorizer
+
+> **An automated customer support solution that processes and classifies incoming emails or support tickets using Machine Learning and Natural Language Processing to route them to correct departments.**
+
+📂 **[Source Code →](https://github.com/Gokulraj-N80/ticket-catogrizer)**
+
+**How it works:**
+- ✉️ Analyzes incoming support text or emails and automatically assigns appropriate department tags (e.g., Technical, Billing, General Inquiry).
+- 🏷️ Utilizes NLP models to clean, tokenize, and extract features from text to understand intent and urgency.
+- ⚡ Speeds up response times by eliminating manual sorting of tickets.
+
+**Tech Stack:**
+&nbsp;`Python`&nbsp;&nbsp;`Machine Learning`&nbsp;&nbsp;`NLP`&nbsp;&nbsp;`NLTK / spaCy`&nbsp;&nbsp;`FastAPI`
+
+---
+
 <h1 align="center">🏆 Achievements</h1>
 
 <div align="center">
