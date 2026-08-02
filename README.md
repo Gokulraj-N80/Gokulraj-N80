@@ -174,6 +174,12 @@
       <sub>ML Silver Certificate</sub>
     </td>
     <td align="center" width="200">
+      <h1>🌐</h1>
+      <h2>Certified</h2>
+      <b>NPTEL</b><br/>
+      <sub>Distributed Systems</sub>
+    </td>
+    <td align="center" width="200">
       <h1>⭐</h1>
       <h2>5-Star</h2>
       <b>HackerRank</b><br/>
