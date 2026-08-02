@@ -60,35 +60,38 @@
 
 <br/>
 
-<h4>💻 &nbsp;Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perrow=6" alt="languages"/>
-
-<br/><br/>
-
-<h4>⚙️ &nbsp;Frameworks & Libraries</h4>
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&perrow=6" alt="frameworks"/>
-
-<br/><br/>
-
-<h4>🗄️ &nbsp;Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=6" alt="databases"/>
-
-<br/><br/>
-
-<h4>☁️ &nbsp;Deployment & Cloud</h4>
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;&nbsp;
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-
-<br/><br/>
-
-<h4>🔧 &nbsp;Dev Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea&perrow=6" alt="tools"/>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perrow=3" alt="languages"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ Frameworks & Libraries</h4>
+      <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&perrow=2" alt="frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🗄️ Databases</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=3" alt="databases"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🔧 Dev Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea&perrow=3" alt="tools"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>☁️ Deployment & Cloud</h4>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
