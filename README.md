@@ -264,6 +264,6 @@
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:c7d2fe,100:ede9fe&height=130&section=footer&animation=fadeIn&fontColor=1e1b4b)](https://github.com/Gokulraj-N80)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:64ffda&height=130&section=footer&animation=fadeIn)](https://github.com/Gokulraj-N80)
 
 </div>
