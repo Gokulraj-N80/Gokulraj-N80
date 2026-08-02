@@ -4,7 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" width="500" />
+  </a>
+</p>
 
 <br/><br/>
 
@@ -34,7 +38,9 @@
 
 <h1 align="center">👨‍💻 About Me</h1>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding gif"/>
+</p>
 
 🎓 &nbsp;**B.E. Computer Science** @ Muthayammal Engineering College *(2022 – 2026)*
 
@@ -49,8 +55,6 @@
 ⚡ &nbsp;Built an AI that catches scammers before they catch you 😄
 
 📍 &nbsp;Salem, Tamil Nadu 🇮🇳
-
-<br clear="right"/>
 
 ---
 
