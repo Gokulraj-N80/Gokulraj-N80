@@ -63,26 +63,44 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perrow=3" alt="languages"/>
+      <h3>💻 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java" alt="Java"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=python" alt="Python"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=c" alt="C"/>
     </td>
+    <td align="center" valign="top" width="50%">
+      <h3>🌐 Web & Core Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <h3>⚙️ Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&perrow=2" alt="frameworks"/>
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=react" alt="React"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"/>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="50%">
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=3" alt="databases"/>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>🔧 Dev Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea&perrow=3" alt="tools"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" valign="top" width="50%">
+      <h3>🔧 Dev Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/>
+    </td>
+    <td align="center" valign="top" width="50%">
       <h3>☁️ Deployment & Cloud</h3>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
       &nbsp;&nbsp;
@@ -150,6 +168,12 @@
       <sub>Problems Solved</sub>
     </td>
     <td align="center" width="200">
+      <h1>🥈</h1>
+      <h2>Silver</h2>
+      <b>NPTEL</b><br/>
+      <sub>ML Silver Certificate</sub>
+    </td>
+    <td align="center" width="200">
       <h1>⭐</h1>
       <h2>5-Star</h2>
       <b>HackerRank</b><br/>
@@ -166,12 +190,6 @@
       <h2>Certified</h2>
       <b>HackerRank</b><br/>
       <sub>Java Basic</sub>
-    </td>
-    <td align="center" width="200">
-      <h1>🥈</h1>
-      <h2>Silver</h2>
-      <b>NPTEL</b><br/>
-      <sub>ML Silver Certificate</sub>
     </td>
   </tr>
 </table>
