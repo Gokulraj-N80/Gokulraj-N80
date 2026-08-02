@@ -4,11 +4,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" width="500" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
 
 <br/><br/>
 
