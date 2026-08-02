@@ -162,6 +162,12 @@
       <sub>SQL Intermediate</sub>
     </td>
     <td align="center" width="200">
+      <h1>☕</h1>
+      <h2>Certified</h2>
+      <b>HackerRank</b><br/>
+      <sub>Java Basic</sub>
+    </td>
+    <td align="center" width="200">
       <h1>🥈</h1>
       <h2>Silver</h2>
       <b>NPTEL</b><br/>
