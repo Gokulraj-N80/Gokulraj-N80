@@ -34,7 +34,7 @@
 
 <h1 align="center">👨‍💻 About Me</h1>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding gif"/>
 
 🎓 &nbsp;**B.E. Computer Science** @ Muthayammal Engineering College *(2022 – 2026)*
 
