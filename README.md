@@ -232,12 +232,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-N80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-N80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=ccd6f6&langs_count=6" height="170"/>
-
-<br/><br/>
-
 [![Streak](https://streak-stats.demolab.com/?user=Gokulraj-N80&theme=tokyonight&hide_border=true&background=0D1117&ring=64ffda&fire=f87171&currStreakLabel=64ffda&sideLabels=9ca3af&dates=6b7280)](https://git.io/streak-stats)
 
 <br/>
