@@ -1,23 +1,32 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=slice&color=0:0a192f,100:112240&height=210&section=header&text=Gokulraj%20N&fontSize=72&fontColor=64ffda&animation=fadeIn&fontAlignY=45&fontAlign=70&desc=Full-Stack%20Developer%20|%20Java%20·%20Spring%20Boot%20·%20React%20·%20AI&descSize=16&descAlignY=70&descColor=ccd6f6&descAlign=70)](https://github.com/Gokulraj-N80)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=210&section=header&text=Gokulraj%20N&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=66&descColor=64ffda)](https://github.com/Gokulraj-N80)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&width=680&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&width=680&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+%7C+🐍+FastAPI+%7C+⚛️+React+%7C+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0a192f?style=flat-square&logo=firefox&logoColor=64ffda)](https://portfolio-gokulraj.netlify.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulraj-n-452438360)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulraj-N80)&nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gokul_raj_n)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gokulrajofficial123@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gokulraj-N80&label=Profile+Views&color=64ffda&style=flat-square)&nbsp;
-![Followers](https://img.shields.io/github/followers/Gokulraj-N80?label=Followers&style=flat-square&color=64ffda)
+<a href="https://portfolio-gokulraj.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-141E30?style=flat-square&logo=firefox&logoColor=64ffda" alt="Portfolio" height="26"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gokulraj-n-452438360" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="26"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Gokulraj-N80" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="26"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Gokul_raj_n" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" height="26"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:gokulrajofficial123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="26"/>
+</a>
 
 </div>
 
@@ -63,13 +72,21 @@
 
 <br/><br/>
 
-**🗄️ &nbsp;Databases & Cloud**
+**🗄️ &nbsp;Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=6" alt="databases"/>
 
 <br/><br/>
 
-**🔧 &nbsp;Tools & Platforms**
+**☁️ &nbsp;Deployment & Cloud**
+
+<img src="https://skillicons.dev/icons?i=netlify,vercel&perrow=6" alt="deployment"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" height="48"/>
+
+<br/><br/>
+
+**🔧 &nbsp;Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse&perrow=6" alt="tools"/>
 
@@ -93,7 +110,7 @@
 - ⚡ Results are returned in under a second, giving instant threat feedback
 
 **Tech Stack:**
-&nbsp;`Python`&nbsp;&nbsp;`FastAPI`&nbsp;&nbsp;`React`&nbsp;&nbsp;`Firebase`&nbsp;&nbsp;`Google Gemini 2.0`&nbsp;&nbsp;`spaCy`&nbsp;&nbsp;`NLTK`
+&nbsp;`Python`&nbsp;&nbsp;`FastAPI`&nbsp;&nbsp;`React`&nbsp;&nbsp;`Firebase`&nbsp;&nbsp;`Google Gemini 2.0`&nbsp;&nbsp;`spaCy`&nbsp;&nbsp;`NLTK`&nbsp;&nbsp;`Render`
 
 <br/>
 
@@ -154,9 +171,17 @@
 
 ### 📬 &nbsp;Let's Connect & Build Something Amazing!
 
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-0a192f?style=for-the-badge&logo=firefox&logoColor=64ffda)](https://portfolio-gokulraj.netlify.app)&nbsp;
-[![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulrajofficial123@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulraj-n-452438360)
+<a href="https://portfolio-gokulraj.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-141E30?style=for-the-badge&logo=firefox&logoColor=64ffda" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:gokulrajofficial123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gokulraj-n-452438360" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+</a>
 
 <br/><br/>
 
@@ -164,6 +189,6 @@
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=slice&color=0:112240,100:0a192f&height=100&section=footer&reversal=true)](https://github.com/Gokulraj-N80)
+[![footer](https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=80&section=footer&animation=fadeIn)](https://github.com/Gokulraj-N80)
 
 </div>
