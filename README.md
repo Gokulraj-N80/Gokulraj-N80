@@ -139,12 +139,38 @@
 
 <div align="center">
 
-| Badge | Achievement |
-|:---:|:---|
-| ![LeetCode](https://img.shields.io/badge/-180%2B%20Problems%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **LeetCode** — Solved 180+ algorithmic & DSA problems |
-| ![HackerRank](https://img.shields.io/badge/-5★%20Java%20Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | **HackerRank** — 5-Star Gold proficiency badge in Java |
-| ![HackerRank](https://img.shields.io/badge/-SQL%20Intermediate-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | **HackerRank** — SQL Intermediate Certified |
-| ![NPTEL](https://img.shields.io/badge/-NPTEL%20Silver-8B8B8B?style=flat-square&logo=coursera&logoColor=white) | **NPTEL** — Silver Certificate in Machine Learning |
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/60/leetcode.png" width="55"/><br/><br/>
+      <h2>180+</h2>
+      <b>LeetCode</b><br/>
+      <sub>Problems Solved</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="55"/><br/><br/>
+      <h2>5 ⭐</h2>
+      <b>HackerRank</b><br/>
+      <sub>Java Gold Badge</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="55"/><br/><br/>
+      <h2>📜</h2>
+      <b>HackerRank</b><br/>
+      <sub>SQL Intermediate</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/60/graduation-cap.png" width="55"/><br/><br/>
+      <h2>🥈</h2>
+      <b>NPTEL</b><br/>
+      <sub>ML Silver Certificate</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 </div>
 
