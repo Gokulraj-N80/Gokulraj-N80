@@ -144,26 +144,26 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/60/leetcode.png" width="55"/><br/><br/>
+      <h1>💻</h1>
       <h2>180+</h2>
       <b>LeetCode</b><br/>
       <sub>Problems Solved</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="55"/><br/><br/>
-      <h2>5 ⭐</h2>
+      <h1>⭐</h1>
+      <h2>5-Star</h2>
       <b>HackerRank</b><br/>
       <sub>Java Gold Badge</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="55"/><br/><br/>
-      <h2>📜</h2>
+      <h1>📜</h1>
+      <h2>Certified</h2>
       <b>HackerRank</b><br/>
       <sub>SQL Intermediate</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/60/graduation-cap.png" width="55"/><br/><br/>
-      <h2>🥈</h2>
+      <h1>🥈</h1>
+      <h2>Silver</h2>
       <b>NPTEL</b><br/>
       <sub>ML Silver Certificate</sub>
     </td>
@@ -180,9 +180,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-N80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gokulraj-N80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true&cache_seconds=1800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-N80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=ccd6f6&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulraj-N80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=ccd6f6&langs_count=6&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
@@ -218,6 +218,6 @@
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=80&section=footer&animation=fadeIn)](https://github.com/Gokulraj-N80)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:c7d2fe,100:ede9fe&height=130&section=footer&animation=fadeIn&fontColor=1e1b4b)](https://github.com/Gokulraj-N80)
 
 </div>
