@@ -4,7 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0D1117&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products">
+  </picture>
+</a>
 
 <br/><br/>
 
