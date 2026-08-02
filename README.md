@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="coding gif"/>
 
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<h1 align="center">🚀 Projects</h1>
 
 ### 🛡️ ScamShield — AI Phishing & Scam Detector
 
@@ -132,7 +132,7 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h1 align="center">🏆 Achievements</h1>
 
 <div align="center">
 
@@ -147,7 +147,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
 
