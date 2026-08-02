@@ -60,35 +60,35 @@
 
 <br/>
 
-**💻 &nbsp;Languages**
+<h4>💻 &nbsp;Languages</h4>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perrow=6" alt="languages"/>
 
 <br/><br/>
 
-**⚙️ &nbsp;Frameworks & Libraries**
+<h4>⚙️ &nbsp;Frameworks & Libraries</h4>
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&perrow=6" alt="frameworks"/>
 
 <br/><br/>
 
-**🗄️ &nbsp;Databases**
+<h4>🗄️ &nbsp;Databases</h4>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=6" alt="databases"/>
 
 <br/><br/>
 
-**☁️ &nbsp;Deployment & Cloud**
+<h4>☁️ &nbsp;Deployment & Cloud</h4>
 
-<img src="https://skillicons.dev/icons?i=netlify,vercel&perrow=6" alt="deployment"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" height="48"/>
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;&nbsp;
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 <br/><br/>
 
-**🔧 &nbsp;Dev Tools**
+<h4>🔧 &nbsp;Dev Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse&perrow=6" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea&perrow=6" alt="tools"/>
 
 <br/>
 
