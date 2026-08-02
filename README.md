@@ -226,9 +226,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.anuraghazra.dev/api?username=Gokulraj-N80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-git-master-rstacene.vercel.app/api?username=Gokulraj-N80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=Gokulraj-N80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=ccd6f6&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-git-master-rstacene.vercel.app/api/top-langs/?username=Gokulraj-N80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64ffda&text_color=ccd6f6&langs_count=6" height="170"/>
 
 <br/><br/>
 
