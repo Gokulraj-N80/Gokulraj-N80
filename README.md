@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=64FFDA&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
 
 <br/><br/>
 
