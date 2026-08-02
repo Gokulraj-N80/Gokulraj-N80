@@ -63,27 +63,27 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h4>💻 Languages</h4>
+      <h3>💻 Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perrow=3" alt="languages"/>
     </td>
     <td align="center" valign="top" width="50%">
-      <h4>⚙️ Frameworks & Libraries</h4>
+      <h3>⚙️ Frameworks & Libraries</h3>
       <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs&perrow=2" alt="frameworks"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h4>🗄️ Databases</h4>
+      <h3>🗄️ Databases</h3>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perrow=3" alt="databases"/>
     </td>
     <td align="center" valign="top" width="50%">
-      <h4>🔧 Dev Tools</h4>
+      <h3>🔧 Dev Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,idea&perrow=3" alt="tools"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h4>☁️ Deployment & Cloud</h4>
+      <h3>☁️ Deployment & Cloud</h3>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -101,7 +101,7 @@
 
 <h1 align="center">🚀 Projects</h1>
 
-### 🛡️ ScamShield — AI Phishing & Scam Detector
+## 🛡️ ScamShield — AI Phishing & Scam Detector
 
 > **A real-time cybersecurity web app that protects users from phishing texts, emails, and URLs using Google Gemini 2.0 AI and Natural Language Processing.**
 
@@ -119,7 +119,7 @@
 
 ---
 
-### 🚌 Bus Ticket Booking System
+## 🚌 Bus Ticket Booking System
 
 > **A full-stack bus reservation platform with dedicated Admin and User portals — handling real-world bus management, seat booking, route planning and secure authentication.**
 
