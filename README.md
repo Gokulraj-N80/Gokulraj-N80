@@ -1,6 +1,6 @@
 <div align="center">
 
-[![banner](banner.png)](https://github.com/Gokulraj-N80)
+![banner](banner.png)
 
 <br/>
 
@@ -21,10 +21,7 @@
 <a href="https://www.linkedin.com/in/gokulraj-n-452438360" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Gokulraj-N80" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Gokul_raj_n" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -264,6 +261,6 @@
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:64ffda&height=130&section=footer&animation=fadeIn)](https://github.com/Gokulraj-N80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:64ffda&height=130&section=footer&animation=fadeIn)
 
 </div>
