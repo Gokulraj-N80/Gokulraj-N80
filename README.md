@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=210&section=header&text=Gokulraj%20N&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=66&descColor=64ffda)](https://github.com/Gokulraj-N80)
+[![banner](banner.png)](https://github.com/Gokulraj-N80)
 
 <br/>
 
