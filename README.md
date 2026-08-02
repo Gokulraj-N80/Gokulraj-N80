@@ -4,28 +4,28 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&width=680&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+%7C+🐍+FastAPI+%7C+⚛️+React+%7C+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=⚡+Full-Stack+Java+%26+Spring+Boot+Developer;🛡️+Builder+of+AI-Powered+Real-World+Apps;☕+Java+·+🐍+FastAPI+·+⚛️+React+·+🗄️+MySQL;🚀+Turning+Ideas+Into+Shipped+Products)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
 
 <a href="https://portfolio-gokulraj.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-141E30?style=flat-square&logo=firefox&logoColor=64ffda" alt="Portfolio" height="26"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=64ffda" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gokulraj-n-452438360" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="26"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Gokulraj-N80" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="26"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Gokul_raj_n" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" height="26"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:gokulrajofficial123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="26"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
